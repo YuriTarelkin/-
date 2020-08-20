@@ -1,0 +1,74 @@
+@import "variables"
+
+.contacts
+  height: 458px
+  width: 100%
+  background-color: #ffffff
+
+  &__contente
+    display: flex
+    justify-content: space-between
+    flex-direction: row
+
+    &-left
+      margin-top: 109px
+      width: 491px
+      display: flex
+      flex-direction: column
+
+      span
+        color: $mainColour
+        font-weight: $textBold
+
+      a
+        text-decoration: none
+        font-weight: $textThin
+        color: $secondColour
+        letter-spacing: 0.68px
+
+      &-text
+        margin-top: 29px
+        display: block
+        width: 435px
+        height: 190px
+        color: #898989
+        font-size: 14px
+        font-weight: $textThin
+        line-height: 24px
+        letter-spacing: 0.35px
+        overflow: hidden
+
+    &-right
+      width: 649px
+      display: flex
+      flex-direction: row
+      justify-content: flex-start
+
+      &-column
+        width: 230px
+        display: flex
+        flex-direction: column
+        justify-content: flex-start
+
+        span
+          margin-top: 123px
+          color: $mainColour
+          font-size: 18px
+          font-weight: $textBold
+          line-height: 26px
+          text-transform: uppercase
+          letter-spacing: 0.45px
+
+        &-menu
+          margin-top: 45px
+          height: 179px
+          display: flex
+          flex-direction: column
+          justify-content: space-between
+
+        a
+          color: #898989
+          font-size: 16px
+          font-weight: $textMain
+          letter-spacing: 0.4px
+          text-decoration: none
