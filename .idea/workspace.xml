@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03cb208e-4566-43db-bea0-3095e69d388f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="Sass File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gJJpBJn62T5bwD7y6ZNeFjaZAb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../Ruby26-x64/bin/scss.bat" />
+    <property name="list.type.of.created.stylesheet" value="Sass" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tarelkin.ya\Desktop\GB\I четверть. Профессиональная верстка\Проект\css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03cb208e-4566-43db-bea0-3095e69d388f" name="Default Changelist" comment="" />
+      <created>1597826942316</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597826942316</updated>
+      <workItem from="1597826943630" duration="1276000" />
+      <workItem from="1597837049517" duration="2626000" />
+      <workItem from="1597910603632" duration="12060000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="548" y="117" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1597911143790">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="117" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.824@0.0.1536.824" timestamp="1597911143790" />
+    <state x="566" y="167" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1597914187158">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="167" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1597914187158" />
+    <state x="437" y="184" width="660" height="640" key="EditFileWatcherDialog" timestamp="1597914143585">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="437" y="184" width="660" height="640" key="EditFileWatcherDialog/0.0.1536.824@0.0.1536.824" timestamp="1597914143585" />
+    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1597911148177">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1597911148177" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1597914146166">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1597914146166" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1597923061000">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1597923061000" />
+  </component>
+</project>
